@@ -50,3 +50,12 @@ Markdown makes READMEs easy to format. Key syntax:
   ```markdown
   ![Python](https://img.shields.io/badge/Python-3.10-blue)
   ![License](https://img.shields.io/badge/License-MIT-green)
+
+# Calculator App  
+
+A simple calculator built with React.  
+
+## Installation  
+```bash
+npm install
+npm start
